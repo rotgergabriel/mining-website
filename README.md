@@ -17,10 +17,10 @@ Mining Website es un sitio web dedicado a proporcionar información y recursos p
 
 ## Tecnologías utilizadas 🛠️
 
-- [React.js](https://es.reactjs.org/docs/): biblioteca de JavaScript para construir interfaces de usuario interactivas.
-- [npm](https://docs.npmjs.com/): sistema de gestión de paquetes de Node.js utilizado para instalar y administrar dependencias.
-- [React Bootstrap](https://react-bootstrap.github.io/) - Biblioteca de componentes de Bootstrap diseñados específicamente para React.
-- [Material UI](https://mui.com/getting-started/installation/): biblioteca de componentes de React basada en Material Design, que ofrece una amplia gama de elementos de interfaz listos para usar.
+- [React.js](https://es.reactjs.org/docs/): Biblioteca de JavaScript para construir interfaces de usuario interactivas.
+- [NPM](https://docs.npmjs.com/): Sistema de gestión de paquetes de Node.js utilizado para instalar y administrar dependencias.
+- [React Bootstrap](https://react-bootstrap.github.io/) : Biblioteca de componentes de Bootstrap diseñados específicamente para React.
+- [Material UI](https://mui.com/getting-started/installation/): Biblioteca de componentes de React basada en Material Design, que ofrece una amplia gama de elementos de interfaz listos para usar.
 
 ## Instalación ⚙️
 
