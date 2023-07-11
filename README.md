@@ -4,21 +4,22 @@ Este es el repositorio del proyecto web "Mining Website".
 
 ## Descripción 📄
 
-Mining Website es un sitio web dedicado a proporcionar información y recursos en el campo de la minería. Nuestro objetivo es brindar a los usuarios una plataforma intuitiva y fácil de usar que les permita acceder a noticias, actualizaciones de la industria minera, productos y servicios ofrecidos por la empresa, así como también recursos adicionales relacionados con la minería.
+Mining Website es un sitio web dedicado a proporcionar información y recursos para una empresa en el campo de la minería. Nuestro objetivo es brindar a los usuarios una plataforma intuitiva y fácil de usar que les permita acceder a noticias, actualizaciones de la industria minera, productos y servicios ofrecidos por la empresa, así como también recursos adicionales relacionados con la minería.
 
 ## Características 🚀
 
 - Interfaz de usuario moderna y atractiva.
-- Visualización de noticias y artículos relacionados con la minería.
-- Integración con API para obtener datos en tiempo real.
-- Soporte para múltiples idiomas.
+- Visualización de noticias y actualizaciones de la industria minera.
+- Información detallada sobre los productos y servicios ofrecidos por la empresa.
+- Recursos adicionales relacionados con la minería, como guías técnicas y estudios de caso.
+- Herramientas de contacto y solicitud de presupuesto para los clientes interesados.
+- Integración con API para mostrar datos en tiempo real relacionados con la minería.
 
 ## Tecnologías utilizadas 🛠️
 
 - [React.js](https://es.reactjs.org/docs/): biblioteca de JavaScript para construir interfaces de usuario interactivas.
 - [npm](https://docs.npmjs.com/): sistema de gestión de paquetes de Node.js utilizado para instalar y administrar dependencias.
-- [Bootstrap](https://getbootstrap.com/docs/): framework de CSS que proporciona componentes y estilos predefinidos para crear interfaces responsivas.
-- [Materialize](https://materializecss.com/): framework de CSS basado en Material Design que facilita la creación de diseños atractivos y consistentes.
+- [React Bootstrap](https://react-bootstrap.github.io/) - Biblioteca de componentes de Bootstrap diseñados específicamente para React.
 - [Material UI](https://mui.com/getting-started/installation/): biblioteca de componentes de React basada en Material Design, que ofrece una amplia gama de elementos de interfaz listos para usar.
 
 ## Instalación ⚙️
@@ -26,7 +27,7 @@ Mining Website es un sitio web dedicado a proporcionar información y recursos e
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/mining-website.git
+   git clone git@github.com:rotgergabriel/mining-website.git
    ```
 
 2. Navega hasta el directorio del proyecto:
@@ -65,8 +66,7 @@ Aquí tienes enlaces a la documentación oficial de las tecnologías utilizadas 
 
 - [React.js](https://es.reactjs.org/docs/) - Documentación oficial de React.js.
 - [npm](https://docs.npmjs.com/) - Documentación oficial de npm.
-- [Bootstrap](https://getbootstrap.com/docs/) - Documentación oficial de Bootstrap.
-- [Materialize](https://materializecss.com/) - Documentación oficial de Materialize.
+- [React Bootstrap](https://react-bootstrap.github.io/) - Documentación oficial de React Bootstrap.
 - [Material UI](https://mui.com/getting-started/installation/) - Documentación oficial de Material UI.
 
 Revisa estos enlaces para obtener información detallada sobre cómo utilizar estas tecnologías en tu proyecto y aprovechar al máximo sus características y funcionalidades.
@@ -77,6 +77,6 @@ Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## Contacto ✉️
 
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme a través de mi dirección de correo electrónico: rotgergabriel@gmail.com.
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarnos a través de nuestro correo electrónico de contacto: rotgergabriel@gmail.com.
 
 ¡Esperamos que disfrutes usando Mining Website! 😊
